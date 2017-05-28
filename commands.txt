@@ -16,3 +16,11 @@ git commit --message ''
 git commit -m ''
 
 
+
+git config --global user.name Haider
+
+
+
+
+git config --global user.email headeralishah@gmail.com
+
