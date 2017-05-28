@@ -8,3 +8,11 @@ git add <file name>
 
 git add .
 
+
+
+git commit --message ''
+
+
+git commit -m ''
+
+
